@@ -55,3 +55,4 @@ source ~/.bashrc
 
 export PATH=${PATH}:/Applications/MacVim
 
+alias irb_record='script -a `date '+%m-%d-%Y'`.irb irb'
